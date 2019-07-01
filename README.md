@@ -1,0 +1,1 @@
+This is D.Strong's first (well second) git project via The Odin Project.
